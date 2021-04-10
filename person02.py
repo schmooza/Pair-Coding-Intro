@@ -9,8 +9,8 @@ def loadDataPerson02():
 	
 	# this code runs the def selectDataPerson01. it sends data to it.
 
-	outputp2 = selectDataPerson02(data)
-	return outputp2
+	outputp2, outputp22 = selectDataPerson02(data)
+	return outputp2, outputp22
 
 # this code selects a column from the loaded data.AssertionError
 
