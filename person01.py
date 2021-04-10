@@ -2,7 +2,7 @@ import pandas as pd
 
 # this def loads the data from data-set.csv
 def loadDataPerson01():
-	data = pd.read_csv("data-set.csv") 
+	data = pd.read_csv("data-set.csv",index_col=False) 
 	
 	# head prints the top 5 lines of the data.
 	# print (data.head())
@@ -16,6 +16,8 @@ def loadDataPerson01():
 
 def selectDataPerson01(data):
 	# print(data["Female Count"])
-	p1 = data["BoroughName"]
-	return p1
+	p1 = data["Female Count"]
+	p11 = data["Asian Count"]
+	p1
+	return p1, p11
 

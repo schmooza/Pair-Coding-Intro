@@ -1,0 +1,2 @@
+http://www.pygal.org/en/stable/documentation/types/index.html
+

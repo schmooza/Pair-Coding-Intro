@@ -22,3 +22,7 @@ Goal: load a data-set and select a column.
 
 5) put the "name" into the code, so it is printed out. 
 
+Extension
+
+Select more than one column of data.
+Export this to a file.
