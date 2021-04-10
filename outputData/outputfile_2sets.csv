@@ -1,156 +1,156 @@
-,Female Count,Male Count
-0,94,47
-1,708,250
-2,28,25
-3,323,158
-4,1810,646
-5,150,188
-6,261,248
-7,18185,16918
-8,15147,14463
-9,321,176
-10,482,277
-11,8868,11048
-12,4534,5630
-13,430,195
-14,73,95
-15,283,104
-16,15,22
-17,325,184
-18,1498,501
-19,187,258
-20,153,101
-21,14219,12936
-22,12349,12176
-23,248,270
-24,399,234
-25,4324,6434
-26,2730,3874
-27,366,103
-28,24,20
-29,312,121
-30,26,11
-31,236,78
-32,559,226
-33,228,285
-34,110,80
-35,6399,5876
-36,8179,7919
-37,89,102
-38,176,109
-39,2884,3523
-40,2106,2334
-41,164,60
-42,99,53
-43,345,181
-44,86,42
-45,1533,569
-46,128,213
-47,139,68
-48,12023,11840
-49,9275,10179
-50,184,111
-51,310,349
-52,7416,10452
-53,1141,1568
-54,609,226
-55,2,3
-56,23,13
-57,20,5
-58,61,33
-59,312,84
-60,67,205
-61,159,92
-62,1847,1984
-63,55,33
-64,28,24
-65,1563,1529
-66,965,1274
-67,63,35
-68,3,2
-69,1,0
-70,3,3
-71,8,17
-72,1,0
-73,88,112
-74,1,2
-75,8,1
-76,216,597
-77,59,91
-78,1,0
-79,242,234
-80,23,13
-81,526,315
-82,677,245
-83,363,176
-84,1649,601
-85,129,67
-86,122,126
-87,326,153
-88,6602,8310
-89,14780,14037
-90,17428,16461
-91,10748,12994
-92,437,118
-93,125,99
-94,23,24
-95,511,358
-96,203,77
-97,296,165
-98,1279,386
-99,89,77
-100,13,28
-101,236,313
-102,3946,5251
-103,12331,12235
-104,13918,12764
-105,5453,7487
-106,341,88
-107,110,116
-108,21,7
-109,200,112
-110,368,114
-111,121,46
-112,659,221
-113,24,10
-114,109,86
-115,3067,3295
-116,7810,7439
-117,6595,6113
-118,3416,3935
-119,163,65
-120,137,84
-121,26,18
-122,322,293
-123,350,152
-124,87,55
-125,1596,521
-126,41,34
-127,201,100
-128,1551,2175
-129,8941,9515
-130,11593,11246
-131,8483,11949
-132,654,201
-133,107,63
-134,20,3
-135,24,18
-136,17,10
-137,31,12
-138,277,78
-139,4,5
-140,63,25
-141,1263,1491
-142,1935,1887
-143,2325,2195
-144,1786,1886
-145,73,31
-146,1,1
-147,5,4
-148,4,4
-149,1,0
-150,1,0
-151,104,146
-152,121,125
-153,124,101
-154,234,494
+,BoroughName,Multi-race Count
+0,Brooklyn,3
+1,Brooklyn,11
+2,Brooklyn,0
+3,Brooklyn,3
+4,Brooklyn,10
+5,Brooklyn,8
+6,Brooklyn,7
+7,Brooklyn,826
+8,Brooklyn,819
+9,Brooklyn,10
+10,Brooklyn,25
+11,Brooklyn,285
+12,Brooklyn,162
+13,Brooklyn,0
+14,Bronx,2
+15,Bronx,1
+16,Bronx,1
+17,Bronx,10
+18,Bronx,3
+19,Bronx,15
+20,Bronx,17
+21,Bronx,490
+22,Bronx,509
+23,Bronx,17
+24,Bronx,16
+25,Bronx,191
+26,Bronx,159
+27,Bronx,2
+28,Manhattan,0
+29,Manhattan,1
+30,Manhattan,3
+31,Manhattan,7
+32,Manhattan,0
+33,Manhattan,20
+34,Manhattan,6
+35,Manhattan,316
+36,Manhattan,681
+37,Manhattan,7
+38,Manhattan,17
+39,Manhattan,205
+40,Manhattan,123
+41,Manhattan,0
+42,Queens,0
+43,Queens,3
+44,Queens,1
+45,Queens,4
+46,Queens,13
+47,Queens,1
+48,Queens,599
+49,Queens,457
+50,Queens,2
+51,Queens,20
+52,Queens,365
+53,Queens,52
+54,Queens,3
+55,Staten Island,0
+56,Staten Island,0
+57,Staten Island,0
+58,Staten Island,0
+59,Staten Island,0
+60,Staten Island,7
+61,Staten Island,1
+62,Staten Island,172
+63,Staten Island,7
+64,Staten Island,1
+65,Staten Island,82
+66,Staten Island,131
+67,Staten Island,0
+68,Outside of NYC,0
+69,Outside of NYC,0
+70,Outside of NYC,0
+71,Outside of NYC,0
+72,Outside of NYC,0
+73,Outside of NYC,6
+74,Outside of NYC,0
+75,Outside of NYC,0
+76,Outside of NYC,22
+77,Outside of NYC,2
+78,Outside of NYC,0
+79,Brooklyn,4
+80,Brooklyn,0
+81,Brooklyn,15
+82,Brooklyn,4
+83,Brooklyn,6
+84,Brooklyn,5
+85,Brooklyn,8
+86,Brooklyn,2
+87,Brooklyn,4
+88,Brooklyn,226
+89,Brooklyn,614
+90,Brooklyn,668
+91,Brooklyn,328
+92,Brooklyn,4
+93,Bronx,10
+94,Bronx,0
+95,Bronx,12
+96,Bronx,3
+97,Bronx,8
+98,Bronx,3
+99,Bronx,5
+100,Bronx,0
+101,Bronx,21
+102,Bronx,252
+103,Bronx,461
+104,Bronx,423
+105,Bronx,231
+106,Bronx,0
+107,Manhattan,8
+108,Manhattan,0
+109,Manhattan,15
+110,Manhattan,6
+111,Manhattan,3
+112,Manhattan,3
+113,Manhattan,0
+114,Manhattan,8
+115,Manhattan,114
+116,Manhattan,584
+117,Manhattan,255
+118,Manhattan,205
+119,Manhattan,0
+120,Queens,1
+121,Queens,0
+122,Queens,15
+123,Queens,1
+124,Queens,1
+125,Queens,9
+126,Queens,0
+127,Queens,9
+128,Queens,82
+129,Queens,393
+130,Queens,526
+131,Queens,369
+132,Queens,21
+133,Staten Island,0
+134,Staten Island,0
+135,Staten Island,0
+136,Staten Island,0
+137,Staten Island,0
+138,Staten Island,3
+139,Staten Island,0
+140,Staten Island,9
+141,Staten Island,162
+142,Staten Island,162
+143,Staten Island,189
+144,Staten Island,140
+145,Staten Island,0
+146,Outside of NYC,0
+147,Outside of NYC,1
+148,Outside of NYC,0
+149,Outside of NYC,0
+150,Outside of NYC,0
+151,Outside of NYC,9
+152,Outside of NYC,10
+153,Outside of NYC,6
+154,Outside of NYC,13

@@ -16,6 +16,6 @@ def loadDataPerson01():
 
 def selectDataPerson01(data):
 	# print(data["Female Count"])
-	p1 = data["Female Count"]
+	p1 = data["BoroughName"]
 	return p1
 
