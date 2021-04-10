@@ -18,6 +18,6 @@ def selectDataPerson01(data):
 	# print(data["Female Count"])
 	p1 = data["Female Count"]
 	p11 = data["Asian Count"]
-	p1
+	
 	return p1, p11
 

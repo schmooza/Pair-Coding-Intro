@@ -16,6 +16,6 @@ def loadDataPerson02():
 
 def selectDataPerson02(data):
 	# print(data["Male Count"])
-	p2 = data["Male Count"]
-	p22 = data["Asian Count"]
+	p2 = data["Female Count"]
+	p22 = data["Black or African American Count"]
 	return p2, p22

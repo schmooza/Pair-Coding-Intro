@@ -22,10 +22,14 @@ finalOutput = pd.concat([outputp1,outputp11, outputp2,outputp22], axis=1)
 
 
 
+totalFems = outputp1.sum()
+print(totalFems,"total femals in NY")
+
+
 print(finalOutput)
 
 print ("\n Now lets sort the data.")
-f2 = finalOutput.sort_values(by=['Male Count', 'Female Count'])
+f2 = finalOutput.sort_values(by=['Asian Count', 'Black or African American Count'])
 
 
 
@@ -44,22 +48,32 @@ f2.to_csv('outputData/outputfile_2sets.csv',index=False)
 
 outputp1 = outputp1.values.tolist()
 outputp11 = outputp11.values.tolist()
+
 outputp2 = outputp2.values.tolist()
 outputp22 = outputp22.values.tolist()
 
+pairsGroup1= list(zip(outputp1,outputp11))
+# print(pairsGroup1,"debug ")
+pairsGroup2= list(zip(outputp2,outputp22))
 
 print("\nNext it takes the selected data and makes a graph. Check the image file for results.")
+
 treemap = pygal.Treemap()
 treemap.title = '2 things compared for some reason'
 treemap.add('Female Count', outputp1)
+treemap.add('Female Asains', outputp11)
 treemap.add('Male Count', outputp2)
+treemap.add('Black Females', outputp22)
 
 treemap.render_to_png('images/myGraph.png')
 
 
 scatter = pygal.XY(stroke=False)
-scatter.title = 'Correlation of Race to Gender'
-scatter.add('Female Count', outputp1,outputp11)
-scatter.add('Male Count', outputp2, outputp22)
+scatter.title = 'Correlation of Gender to Race'
+scatter.x_title='Gender Amount Per Area of NY'
+scatter.y_title='Race Amount Per Area of NY'
+
+scatter.add('Asain Females', pairsGroup1)
+scatter.add('Black Females', pairsGroup2)
 
 scatter.render_to_png('images/myGraph2.png')
