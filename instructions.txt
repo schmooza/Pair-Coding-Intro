@@ -1,0 +1,24 @@
+Fork the replit. Fork means to make a copy. 
+
+Share the replit with a partner. 
+
+In pairs, fix the errors. 
+
+
+person01.py = person 1 errors to fix.
+
+person02.py = person 2 errors to fix.
+
+
+Goal: load a data-set and select a column.
+
+1) check the datas-set file. 
+
+2) you could view this more easily in google sheets. 
+
+3) the top row is always the description of the data. 
+
+4) choose one of these description names. (must be exactly the same.)
+
+5) put the "name" into the code, so it is printed out. 
+
